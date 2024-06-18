@@ -3,6 +3,14 @@ BBBBB
 CCCCC
 DDDDD
 
+<<<<<<< HEAD
 XXXXX
 YYYYY
 ZZZZZ
+=======
+
+EEEEE
+FFFFF
+HHHHH
+IIIII
+>>>>>>> feature
